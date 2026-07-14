@@ -55,6 +55,11 @@ Install dependencies and launch the dashboard:
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## 🌐 Live Demo
+
+👉 **Live Dashboard:** [https://your-streamlit-app-url.streamlit.app](https://lajema-churn-prediction-app-maike3.streamlit.app/)
+
+---
 
 ### 3. Deploying to Streamlit Community Cloud
 Push the project folder to a GitHub repo, connect it at share.streamlit.io, and point the deploy at `app.py`. Dependencies build automatically from `requirements.txt`.
